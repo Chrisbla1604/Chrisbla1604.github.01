@@ -29,3 +29,44 @@ span{
 a{
     font-weight: 600;
 }
+
+.seccion{
+    width: 50%;
+    margin: 0 auto;
+}
+
+#seccionhabilidades table td {
+    text-align: center;
+}
+
+#seccionhabilidades table {
+    margin: 0 auto;
+}
+
+.seccion{
+    background-color: white;
+    padding: 6%;
+    margin-top: 2% !important;
+    box-shadow: 0 1px 6px rgb(0 0 0 / 12%);
+}
+
+sectiom h2 
+{
+    color: #0bcc7b;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+nav ul {
+list-style-type: none;
+
+}
+
+#seccciondatos p{
+    font-size: 1.4rem;
+    margin-top: 6%;
+    color: #373B41;
+}
