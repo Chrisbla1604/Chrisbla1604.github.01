@@ -99,3 +99,8 @@ list-style-type: none;
 #mapa{
     grid-area: area5;
 }
+
+address{
+    display: flex;
+    flex-direction: column;
+}
